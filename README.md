@@ -4,4 +4,4 @@
 - Nama Anggota Kelompok : Brilino Pradika Putra (201910370311261) dan Reza Alvin Muhammad (201910370311278)
 - Dataset : ASL Dataset
 - Link Dataset : https://www.kaggle.com/datasets/grassknoted/asl-alphabet
-- Referensi Jurnal : Pendeteksi Bahasa Isyarat Menggunakan Keras
+- Referensi Jurnal : Pendeteksi Bahasa Isyarat Menggunakan CNN
